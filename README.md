@@ -6,10 +6,10 @@ Selamat datang di **LowLevelDev ID Easy Kernel Pwn Repo** – ini adalah reposit
 ---
 
 ### 🧪 `bamcross`
-- **Bug**: OOB 0-byte
+- **Bug**: OOB 0-byte + UAF
 
 ### 🧪 `bamcache`
-- **Bug**: OOB 0-byte + cache khusus
+- **Bug**: OOB 0-byte + UAF + cache khusus
 
 ### 🧪 `bamfile`
 - **Bug**: file UAF
