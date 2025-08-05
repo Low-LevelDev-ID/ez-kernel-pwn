@@ -1,5 +1,5 @@
 # ez-kernel-pwn
-# 🧠 Easy Kernel Exploitation Roadmap – LowLevelDev ID
+# 🧠 Easy Kernel Exploitation Challenge – LowLevelDev ID
 
 Selamat datang di **LowLevelDev ID Easy Kernel Pwn Repo** – ini adalah repositori tantangan eksploitasi kernel Linux dengan konfigurasi kernel minimal dan tanpa hardening memory tingkat lanjut seperti pada tantangan level eksperimental pada repo kernel-pwn, yang di fokuskan pada latihan teknik pengembangan exploit seperti dirty page-table, page-jack, dirty-pipe, USMA dan lain-lain.
 
